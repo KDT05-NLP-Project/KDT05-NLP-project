@@ -1,11 +1,17 @@
 # _KDT05-NLP Project_
 
+<hr/>
+
+# 본 프로젝트는 포트폴리용이 아니며, 단체의 취미가 반영됨 토이 프로젝트임을 밝힙니다 
+
+<hr/>
+
 경북대학교 KDT(Korea Digital Training) 빅데이터 전문가 양성과정 5기 : NLP 3팀입니다
 
-고우석 : [깃허브 링크](https://github.com/Gowooseo)
+고우석 : [깃허브 링크](https://github.com/Gowooseo)       
 권혁원 : [깃허브 링크](https://github.com/one5469)  
 옥영신 : [깃허브 링크](https://github.com/YeongshinOk)  
-명노아 : [깃허브 링크](https://github.com/noah2397)
+명노아 : [깃허브 링크](https://github.com/noah2397)     
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -58,38 +64,4 @@
 |              CNN |          |
 | 최종 결과물 산출 |          |
 
-### 소주제 개요(개인 항목)
 
-<details>
-  <summary>
-    고우석 
-  </summary>
-  
-</details>
-
-</hr>
-
-<details>
-  <summary>
-    권혁원  
-  </summary>
-
-  </details>
-
-</hr>
-
-<details>
-  <summary>
-    명노아 
-  </summary>
-  </details>
-
-</hr>
-
-<details>
-  <summary>
-    옥영신 
-  </summary>
-  
-</details>
-<hr/>
